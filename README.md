@@ -42,6 +42,11 @@ fifa-world-cup-2030/
 
 ## Getting Started
 
+1. Website link :
+   [https://worldcup30.netlify.app/]
+
+- Or:
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/Ra7imX/WorldCup30.git
@@ -114,3 +119,5 @@ The website is fully responsive with breakpoints at:
 Abderrahim Abbad - [abbad.abderrahim.professional@gmail.com]
 
 Project Link: [https://github.com/Ra7imX/WorldCup30]
+
+Site link[https://worldcup30.netlify.app/]
